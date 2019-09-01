@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PressFKernel by HeroBuxx
+kernel.string=RiddimKernel by HeroBuxx
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
