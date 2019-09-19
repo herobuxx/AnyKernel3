@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=RiddimKernel by HeroBuxx
+kernel.string=ViviaKernel by HeroBuxx
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
