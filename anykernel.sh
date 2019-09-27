@@ -13,7 +13,7 @@ device.name1=mido
 device.name2=redmi note 4
 device.name3=Redmi Note 4
 device.name4=Redmi Note 4x
-supported.versions=8.1.0 - 9
+supported.versions=8.1.0 - 10
 supported.patchlevels=2019-01 -
 '; } # end properties
 
@@ -38,7 +38,7 @@ set_perm_recursive 0 0 750 750 $ramdisk/init* $ramdisk/sbin;
 is_treble=$(file_getprop /system/build.prop "ro.treble.enabled");
 if [ ! "$is_treble" -o "$is_treble" == "false" ]; then
   ui_print " ";
-  ui_print "PressFKernel only supports Treble ROMS!";
+  ui_print "ViviaKernel only supports Treble ROMS!";
   exit 1;
 fi;
 
