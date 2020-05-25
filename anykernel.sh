@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ViviaKernel by HeroBuxx
+kernel.string=PhantomCAF by HeroBuxx
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
