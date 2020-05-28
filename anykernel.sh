@@ -10,10 +10,10 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=tulip
-device.name2=redmi note 6 pro
-device.name3=Redmi Note 6 Pro
-device.name4=Redmi Note 6 pro
+device.name1=wayne
+device.name2=Xiaomi Mi 6X
+device.name3=Mi 6X
+device.name4=Wayne
 supported.versions=8.1.0 - 10
 supported.patchlevels=2019-01 -
 '; } # end properties
