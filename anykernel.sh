@@ -10,10 +10,10 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mido
-device.name2=redmi note 4
-device.name3=Redmi Note 4
-device.name4=Redmi Note 4x
+device.name1=tulip
+device.name2=redmi note 6 pro
+device.name3=Redmi Note 6 Pro
+device.name4=Redmi Note 6 pro
 supported.versions=8.1.0 - 10
 supported.patchlevels=2019-01 -
 '; } # end properties
