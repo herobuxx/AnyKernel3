@@ -14,6 +14,8 @@ device.name1=tulip
 device.name2=twolip
 device.name3=wayne
 device.name4=whyred
+device.name5=lavender
+device.name6=jasmine_sprout
 supported.versions=9.0 - 11
 supported.patchlevels=2019-01 -
 '; } # end properties
